@@ -1,0 +1,5 @@
+[10:00] UsuárioA: Olá a todos! #boasvindas #geral
+[10:05] UsuárioB: Alguém viu a atualização sobre #noticias-tech?
+[10:10] UsuárioC: Sim, interessante! #noticias-tech #inovacao
+[10:15] UsuárioA: Concordo! #geral
+[10:20] UsuárioD: Preciso de ajuda com #javascript_iniciantes.
