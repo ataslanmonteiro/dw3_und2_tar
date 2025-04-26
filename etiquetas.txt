@@ -1,0 +1,16 @@
+#boasvindas
+- [10:00] UsuárioA: Olá a todos! #boasvindas #geral
+
+#geral
+- [10:00] UsuárioA: Olá a todos! #boasvindas #geral
+- [10:15] UsuárioA: Concordo! #geral
+
+#noticias-tech
+- [10:05] UsuárioB: Alguém viu a atualização sobre #noticias-tech?
+- [10:10] UsuárioC: Sim, interessante! #noticias-tech #inovacao
+
+#inovacao
+- [10:10] UsuárioC: Sim, interessante! #noticias-tech #inovacao
+
+#javascript_iniciantes
+- [10:20] UsuárioD: Preciso de ajuda com #javascript_iniciantes.
